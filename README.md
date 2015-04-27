@@ -5,7 +5,7 @@ Simple Python ide created for learning purposes. Uses PyQode and a special versi
 Pycreator is an **experiment** and is not meant for actual production use, however, pull request are welcome and I will do my best to answer any questions you may have.
 
 ### To Do
-Upgrade to Python 3 and use a _non-special_ Qt binding. PySide would freeze the menu.
+Upgrade to Python 3 and use a _non-special_ Qt binding(official PyQt5). PySide would freeze the menu.
 Perhaps this is a PyQode issue?
 
 ![PyCreator Screenshot](/https://github.com/Zachacious/PyCreator/blob/master/screenshot.jpg)
