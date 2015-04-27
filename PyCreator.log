@@ -1,0 +1,139 @@
+INFO:pyqode.core.widgets.splittable_tab_widget:registered editors: {'text/x-log': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-python': <class 'PyCreator.UI.pythonEditor.PythonEditor'>, 'text/plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>}
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+INFO:pyqode.core.widgets.splittable_tab_widget:registered editors: {'text/x-log': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-python': <class 'PyCreator.UI.pythonEditor.PythonEditor'>, 'text/plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>}
+INFO:pyqode.core.api.client:backend process started
+INFO:pyqode.core.managers.backend:starting backend process: C:\Python27\python.exe C:\Python27\lib\site-packages\pyqode\python\backend\server.py 62779
+INFO:pyqode.core.api.code_edit:setPlainText duration: 0.056000s
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x000000000468FF28>
+INFO:pyqode.core.widgets.splittable_tab_widget:current tab changed (old=None, new=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\UI\\icons.py'))
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004691048>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x000000000468FF28>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x00000000046910B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004691048>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004691048>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x000000000468FF28>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003A042E8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x00000000046910B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004691048>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x000000000468FF28>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x00000000046910B8>
+INFO:pyqode.core.managers.backend:backend process terminated
+INFO:pyqode.core.api.code_edit:closed
+INFO:pyqode.core.widgets.splittable_tab_widget:registered editors: {'text/x-log': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-python': <class 'PyCreator.UI.pythonEditor.PythonEditor'>, 'text/plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>}
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+INFO:pyqode.core.widgets.splittable_tab_widget:registered editors: {'text/x-log': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-python': <class 'PyCreator.UI.pythonEditor.PythonEditor'>, 'text/plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>}
+INFO:pyqode.core.api.client:backend process started
+INFO:pyqode.core.managers.backend:starting backend process: C:\Python27\python.exe C:\Python27\lib\site-packages\pyqode\python\backend\server.py 53032
+INFO:pyqode.core.api.code_edit:setPlainText duration: 0.017000s
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x0000000004683198>
+INFO:pyqode.core.widgets.splittable_tab_widget:current tab changed (old=None, new=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator.py'))
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004683278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x0000000004683198>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003ADB2E8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x00000000046832E8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003ADB2E8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004683278>
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.modes.code_completion:showing 183 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 183 items in 0.009000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004683278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004683278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003ADB2E8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x0000000004683198>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x00000000046832E8>
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004683278>
+INFO:pyqode.core.modes.code_completion:showing 455 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 455 items in 0.017000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x0000000004683198>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x00000000046832E8>
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004683278>
+INFO:pyqode.core.modes.code_completion:showing 455 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 455 items in 0.021000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x0000000004683198>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003ADB2E8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x00000000046832E8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004683278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x0000000004683198>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003ADB2E8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x00000000046832E8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004683278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x0000000004683198>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x00000000046832E8>
+INFO:pyqode.core.managers.backend:backend process terminated
+INFO:pyqode.core.api.code_edit:closed
+INFO:pyqode.core.widgets.splittable_tab_widget:registered editors: {'text/x-log': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-python': <class 'PyCreator.UI.pythonEditor.PythonEditor'>, 'text/plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>}
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+INFO:pyqode.core.widgets.splittable_tab_widget:registered editors: {'text/x-log': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-python': <class 'PyCreator.UI.pythonEditor.PythonEditor'>, 'text/plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>}
+INFO:pyqode.core.api.client:backend process started
+INFO:pyqode.core.managers.backend:starting backend process: C:\Python27\python.exe C:\Python27\lib\site-packages\pyqode\python\backend\server.py 55383
+INFO:pyqode.core.api.code_edit:setPlainText duration: 0.019000s
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000045D4198>
+INFO:pyqode.core.widgets.splittable_tab_widget:current tab changed (old=None, new=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator.py'))
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x00000000045D4278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000045D4198>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x00000000045D42E8>
+INFO:pyqode.core.api.client:backend process started
+INFO:pyqode.core.managers.backend:starting backend process: C:\Python27\python.exe C:\Python27\lib\site-packages\pyqode\python\backend\server.py 55392
+INFO:pyqode.core.api.code_edit:setPlainText duration: 0.026000s
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000045D4198>
+INFO:pyqode.core.widgets.splittable_tab_widget:current tab changed (old=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator.py'), new=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator\\UI\\fileDropWidget.py'))
+INFO:pyqode.core.api.client:backend process started
+INFO:pyqode.core.managers.backend:starting backend process: C:\Python27\python.exe C:\Python27\lib\site-packages\pyqode\python\backend\server.py 55394
+INFO:pyqode.core.api.code_edit:setPlainText duration: 0.207000s
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000045D4198>
+INFO:pyqode.core.widgets.splittable_tab_widget:current tab changed (old=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator\\UI\\fileDropWidget.py'), new=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator\\UI\\main_window.py'))
+INFO:pyqode.core.api.client:backend process started
+INFO:pyqode.core.managers.backend:starting backend process: C:\Python27\python.exe C:\Python27\lib\site-packages\pyqode\python\backend\server.py 55396
+INFO:pyqode.core.api.code_edit:setPlainText duration: 0.051000s
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000045D4198>
+INFO:pyqode.core.widgets.splittable_tab_widget:current tab changed (old=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator\\UI\\main_window.py'), new=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator\\UI\\mainMenu.py'))
+INFO:pyqode.core.api.client:backend process started
+INFO:pyqode.core.managers.backend:starting backend process: C:\Python27\python.exe C:\Python27\lib\site-packages\pyqode\python\backend\server.py 55398
+INFO:pyqode.core.api.code_edit:setPlainText duration: 0.021000s
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000045D4198>
+INFO:pyqode.core.widgets.splittable_tab_widget:current tab changed (old=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator\\UI\\mainMenu.py'), new=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator\\UI\\outputDock.py'))
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x00000000045D4278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x00000000045D4278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000045D4198>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x00000000045D42E8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x00000000045D4278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000045D4198>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x00000000045D4278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x00000000045D42E8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000045D4198>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x00000000045D42E8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000045D4198>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x00000000045D42E8>
+INFO:pyqode.core.api.client:backend process started
+INFO:pyqode.core.managers.backend:starting backend process: C:\Python27\python.exe C:\Python27\lib\site-packages\pyqode\python\backend\server.py 55433
+INFO:pyqode.core.widgets.splittable_tab_widget:current tab changed (old=None, new=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator\\UI\\fileDropWidget.py'))
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x00000000045D4278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000045D4198>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x00000000045D42E8>
+INFO:pyqode.core.widgets.splittable_tab_widget:current tab changed (old=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator\\UI\\outputDock.py'), new=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator\\UI\\mainMenu.py'))
+INFO:pyqode.core.widgets.splittable_tab_widget:current tab changed (old=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator\\UI\\mainMenu.py'), new=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator\\UI\\main_window.py'))
+INFO:pyqode.core.managers.backend:backend process terminated
+INFO:pyqode.core.api.code_edit:closed
+INFO:pyqode.core.managers.backend:backend process terminated
+INFO:pyqode.core.api.code_edit:closed
+INFO:pyqode.core.managers.backend:backend process terminated
+INFO:pyqode.core.api.code_edit:closed
+INFO:pyqode.core.widgets.splittable_tab_widget:current tab changed (old=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator\\UI\\main_window.py'), new=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator\\UI\\mainMenu.py'))
+INFO:pyqode.core.managers.backend:backend process terminated
+INFO:pyqode.core.api.code_edit:closed
+INFO:pyqode.core.widgets.splittable_tab_widget:current tab changed (old=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator\\UI\\mainMenu.py'), new=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator\\UI\\outputDock.py'))
+INFO:pyqode.core.managers.backend:backend process terminated
+INFO:pyqode.core.api.code_edit:closed
+INFO:pyqode.core.managers.backend:backend process terminated
+INFO:pyqode.core.api.code_edit:closed
