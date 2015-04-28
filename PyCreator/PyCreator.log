@@ -1,0 +1,15 @@
+INFO:pyqode.core.widgets.splittable_tab_widget:registered editors: {'text/x-log': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-python': <class 'UI.pythonEditor.PythonEditor'>, 'text/plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>}
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+INFO:pyqode.core.widgets.splittable_tab_widget:registered editors: {'text/x-log': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-python': <class 'UI.pythonEditor.PythonEditor'>, 'text/plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>}
+INFO:pyqode.core.api.client:backend process started
+INFO:pyqode.core.managers.backend:starting backend process: C:\Python27\python.exe C:\Python27\lib\site-packages\pyqode\python\backend\server.py 61950
+INFO:pyqode.core.api.code_edit:setPlainText duration: 0.023000s
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000047FC828>
+INFO:pyqode.core.widgets.splittable_tab_widget:current tab changed (old=None, new=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator\\main.py'))
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x00000000047FC908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000047FC828>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x00000000047FC978>
+INFO:pyqode.core.managers.backend:backend process terminated
+INFO:pyqode.core.api.code_edit:closed

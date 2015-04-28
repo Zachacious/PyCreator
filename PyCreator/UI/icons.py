@@ -14,9 +14,9 @@ import os
 class Icons(object):
 
     # get the abs path to icons from current project dir
-    _basePath = "PyCreator/UI/icons/"
-    _basePath = os.path.abspath(_basePath)
-    _bp = rectifyPath(_basePath)
+    # _basePath = os.getcwd() + "/UI/icons/"
+    # _basePath = os.path.abspath(_basePath)
+    # _bp = rectifyPath(_basePath)
 
     new = QIcon()
     openFile = QIcon()
@@ -47,65 +47,72 @@ class Icons(object):
         if cls.isLoaded:
             return
 
-        cls.new.addPixmap(QPixmap(cls._bp + os.sep + "new.png"), QIcon.Normal,
+        bp = ""
+
+        if os.path.isdir(rectifyPath(os.getcwd() + "/PyCreator")):
+            bp = rectifyPath(os.getcwd() + "/PyCreator/UI/Icons")
+        else:
+            bp = rectifyPath(os.getcwd() + "/UI/Icons")
+
+        cls.new.addPixmap(QPixmap(bp + os.sep + "new.png"), QIcon.Normal,
                           QIcon.Off)
 
-        cls.openFile.addPixmap(QPixmap(cls._bp + os.sep + "open.png"),
+        cls.openFile.addPixmap(QPixmap(bp + os.sep + "open.png"),
                                QIcon.Normal, QIcon.Off)
 
-        cls.save.addPixmap(QPixmap(cls._bp + os.sep + "save.png"),
+        cls.save.addPixmap(QPixmap(bp + os.sep + "save.png"),
                            QIcon.Normal, QIcon.Off)
 
-        cls.saveAs.addPixmap(QPixmap(cls._bp + os.sep + "saveas.png"),
+        cls.saveAs.addPixmap(QPixmap(bp + os.sep + "saveas.png"),
                              QIcon.Normal, QIcon.Off)
 
-        cls.saveAll.addPixmap(QPixmap(cls._bp + os.sep + "saveall.png"),
+        cls.saveAll.addPixmap(QPixmap(bp + os.sep + "saveall.png"),
                               QIcon.Normal, QIcon.Off)
 
-        cls.cut.addPixmap(QPixmap(cls._bp + os.sep + "cut.png"),
+        cls.cut.addPixmap(QPixmap(bp + os.sep + "cut.png"),
                           QIcon.Normal, QIcon.Off)
 
-        cls.copy.addPixmap(QPixmap(cls._bp + os.sep + "copy.png"),
+        cls.copy.addPixmap(QPixmap(bp + os.sep + "copy.png"),
                            QIcon.Normal, QIcon.Off)
 
-        cls.paste.addPixmap(QPixmap(cls._bp + os.sep + "paste.png"),
+        cls.paste.addPixmap(QPixmap(bp + os.sep + "paste.png"),
                             QIcon.Normal, QIcon.Off)
 
-        cls.undo.addPixmap(QPixmap(cls._bp + os.sep + "undo.png"),
+        cls.undo.addPixmap(QPixmap(bp + os.sep + "undo.png"),
                            QIcon.Normal, QIcon.Off)
 
-        cls.redo.addPixmap(QPixmap(cls._bp + os.sep + "redo.png"),
+        cls.redo.addPixmap(QPixmap(bp + os.sep + "redo.png"),
                            QIcon.Normal, QIcon.Off)
 
-        cls.indent.addPixmap(QPixmap(cls._bp + os.sep + "indent.png"),
+        cls.indent.addPixmap(QPixmap(bp + os.sep + "indent.png"),
                              QIcon.Normal, QIcon.Off)
 
-        cls.unindent.addPixmap(QPixmap(cls._bp + os.sep + "unindent.png"),
+        cls.unindent.addPixmap(QPixmap(bp + os.sep + "unindent.png"),
                                QIcon.Normal, QIcon.Off)
 
-        cls.search.addPixmap(QPixmap(cls._bp + os.sep + "search.png"),
+        cls.search.addPixmap(QPixmap(bp + os.sep + "search.png"),
                              QIcon.Normal, QIcon.Off)
 
-        cls.replace.addPixmap(QPixmap(cls._bp + os.sep + "replace.png"),
+        cls.replace.addPixmap(QPixmap(bp + os.sep + "replace.png"),
                               QIcon.Normal, QIcon.Off)
 
-        cls.doc.addPixmap(QPixmap(cls._bp + os.sep + "doc.png"),
+        cls.doc.addPixmap(QPixmap(bp + os.sep + "doc.png"),
                           QIcon.Normal, QIcon.Off)
 
-        cls.run.addPixmap(QPixmap(cls._bp + os.sep + "run.png"),
+        cls.run.addPixmap(QPixmap(bp + os.sep + "run.png"),
                           QIcon.Normal, QIcon.Off)
 
-        cls.runConfig.addPixmap(QPixmap(cls._bp + os.sep + "runConfig.png"),
+        cls.runConfig.addPixmap(QPixmap(bp + os.sep + "runConfig.png"),
                                 QIcon.Normal, QIcon.Off)
 
-        cls.comment.addPixmap(QPixmap(cls._bp + os.sep + "comment.png"),
+        cls.comment.addPixmap(QPixmap(bp + os.sep + "comment.png"),
                               QIcon.Normal, QIcon.Off)
 
-        cls.gotoAssign.addPixmap(QPixmap(cls._bp + os.sep + "gotoassign.png"),
+        cls.gotoAssign.addPixmap(QPixmap(bp + os.sep + "gotoassign.png"),
                                  QIcon.Normal, QIcon.Off)
 
-        cls.dupLine.addPixmap(QPixmap(cls._bp + os.sep + "dupline.png"),
+        cls.dupLine.addPixmap(QPixmap(bp + os.sep + "dupline.png"),
                               QIcon.Normal, QIcon.Off)
 
-        cls.folder.addPixmap(QPixmap(cls._bp + os.sep + "folder.png"),
+        cls.folder.addPixmap(QPixmap(bp + os.sep + "folder.png"),
                              QIcon.Normal, QIcon.Off)

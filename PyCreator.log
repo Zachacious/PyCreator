@@ -137,3 +137,759 @@ INFO:pyqode.core.managers.backend:backend process terminated
 INFO:pyqode.core.api.code_edit:closed
 INFO:pyqode.core.managers.backend:backend process terminated
 INFO:pyqode.core.api.code_edit:closed
+INFO:pyqode.core.widgets.splittable_tab_widget:registered editors: {'text/x-log': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-python': <class 'PyCreator.UI.pythonEditor.PythonEditor'>, 'text/plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>}
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+INFO:pyqode.core.widgets.splittable_tab_widget:registered editors: {'text/x-log': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-python': <class 'PyCreator.UI.pythonEditor.PythonEditor'>, 'text/plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>}
+INFO:pyqode.core.api.client:backend process started
+INFO:pyqode.core.managers.backend:starting backend process: C:\Python27\python.exe C:\Python27\lib\site-packages\pyqode\python\backend\server.py 61477
+INFO:pyqode.core.api.code_edit:setPlainText duration: 0.060000s
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.widgets.splittable_tab_widget:current tab changed (old=None, new=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator\\UI\\icons.py'))
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.modes.code_completion:showing 185 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 185 items in 0.009000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.modes.code_completion:showing 185 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 185 items in 0.009000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.modes.code_completion:showing 186 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 186 items in 0.010000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.modes.code_completion:showing 186 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 186 items in 0.009000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.modes.code_completion:showing 186 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 186 items in 0.010000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.modes.code_completion:showing 72 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 72 items in 0.004000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.api.client:backend process started
+INFO:pyqode.core.managers.backend:starting backend process: C:\Python27\python.exe C:\Python27\lib\site-packages\pyqode\python\backend\server.py 61518
+INFO:pyqode.core.api.code_edit:setPlainText duration: 0.022000s
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.widgets.splittable_tab_widget:current tab changed (old=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator\\UI\\icons.py'), new=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator.py'))
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.widgets.splittable_tab_widget:registered editors: {'text/x-log': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-python': <class 'PyCreator.UI.pythonEditor.PythonEditor'>, 'text/plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>}
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+INFO:pyqode.core.widgets.splittable_tab_widget:registered editors: {'text/x-log': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-python': <class 'PyCreator.UI.pythonEditor.PythonEditor'>, 'text/plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>}
+INFO:pyqode.core.widgets.splittable_tab_widget:current tab changed (old=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator.py'), new=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator\\UI\\icons.py'))
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.modes.code_completion:showing 184 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 184 items in 0.010000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.modes.code_completion:showing 476 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 476 items in 0.023000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.widgets.splittable_tab_widget:current tab changed (old=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator\\UI\\icons.py'), new=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator.py'))
+INFO:pyqode.core.widgets.splittable_tab_widget:registered editors: {'text/x-log': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-python': <class 'PyCreator.UI.pythonEditor.PythonEditor'>, 'text/plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>}
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+INFO:pyqode.core.widgets.splittable_tab_widget:registered editors: {'text/x-log': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-python': <class 'PyCreator.UI.pythonEditor.PythonEditor'>, 'text/plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>}
+INFO:pyqode.core.widgets.splittable_tab_widget:current tab changed (old=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator.py'), new=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator\\UI\\icons.py'))
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.modes.code_completion:showing 72 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 72 items in 0.005000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.modes.code_completion:showing 186 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 186 items in 0.009000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.modes.code_completion:showing 140 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 140 items in 0.008000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.widgets.splittable_tab_widget:current tab changed (old=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator\\UI\\icons.py'), new=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator.py'))
+INFO:pyqode.core.widgets.splittable_tab_widget:registered editors: {'text/x-log': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-python': <class 'PyCreator.UI.pythonEditor.PythonEditor'>, 'text/plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>}
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+INFO:pyqode.core.widgets.splittable_tab_widget:registered editors: {'text/x-log': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-python': <class 'PyCreator.UI.pythonEditor.PythonEditor'>, 'text/plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>}
+INFO:pyqode.core.widgets.splittable_tab_widget:current tab changed (old=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator.py'), new=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator\\UI\\icons.py'))
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.modes.code_completion:showing 140 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 140 items in 0.009000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.widgets.splittable_tab_widget:current tab changed (old=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator\\UI\\icons.py'), new=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator.py'))
+INFO:pyqode.core.widgets.splittable_tab_widget:registered editors: {'text/x-log': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-python': <class 'PyCreator.UI.pythonEditor.PythonEditor'>, 'text/plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>}
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+INFO:pyqode.core.widgets.splittable_tab_widget:registered editors: {'text/x-log': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-python': <class 'PyCreator.UI.pythonEditor.PythonEditor'>, 'text/plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>}
+INFO:pyqode.core.widgets.splittable_tab_widget:current tab changed (old=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator.py'), new=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator\\UI\\icons.py'))
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.modes.code_completion:showing 187 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 187 items in 0.009000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.modes.code_completion:showing 187 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 187 items in 0.010000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.modes.code_completion:showing 140 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 140 items in 0.008000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.modes.code_completion:showing 187 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 187 items in 0.009000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.modes.code_completion:showing 187 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 187 items in 0.009000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.modes.code_completion:showing 140 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 140 items in 0.008000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.modes.code_completion:showing 57 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 57 items in 0.003000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.modes.code_completion:showing 187 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 187 items in 0.010000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.modes.code_completion:showing 187 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 187 items in 0.011000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.modes.code_completion:showing 187 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 187 items in 0.009000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function goto_assignments at 0x00000000046036D8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.modes.code_completion:showing 186 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 186 items in 0.008000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.modes.code_completion:showing 186 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 186 items in 0.009000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.modes.code_completion:showing 187 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 187 items in 0.009000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.modes.code_completion:showing 140 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 140 items in 0.008000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function goto_assignments at 0x00000000046036D8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.modes.code_completion:showing 186 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 186 items in 0.010000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.modes.code_completion:showing 186 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 186 items in 0.010000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.modes.code_completion:showing 187 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 187 items in 0.010000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.modes.code_completion:showing 187 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 187 items in 0.010000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function goto_assignments at 0x00000000046036D8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function goto_assignments at 0x00000000046036D8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.widgets.splittable_tab_widget:current tab changed (old=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator\\UI\\icons.py'), new=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator.py'))
+INFO:pyqode.core.widgets.splittable_tab_widget:registered editors: {'text/x-log': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-python': <class 'PyCreator.UI.pythonEditor.PythonEditor'>, 'text/plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>}
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+INFO:pyqode.core.widgets.splittable_tab_widget:registered editors: {'text/x-log': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-python': <class 'PyCreator.UI.pythonEditor.PythonEditor'>, 'text/plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>}
+INFO:pyqode.core.api.client:backend process started
+INFO:pyqode.core.managers.backend:starting backend process: C:\Python27\python.exe C:\Python27\lib\site-packages\pyqode\python\backend\server.py 61917
+INFO:pyqode.core.api.code_edit:setPlainText duration: 0.020000s
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046977B8>
+INFO:pyqode.core.widgets.splittable_tab_widget:current tab changed (old=None, new=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator.py'))
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004697898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046977B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004697908>
+ERROR:pyqode.backend:Traceback (most recent call last)
+ERROR:pyqode.backend:
+ERROR:pyqode.backend:  File "C:\Python27\Lib\SocketServer.py", line 599, in process_request_thread
+ERROR:pyqode.backend:    self.finish_request(request, client_address
+ERROR:pyqode.backend:
+ERROR:pyqode.backend:  File "C:\Python27\Lib\SocketServer.py", line 334, in finish_request
+ERROR:pyqode.backend:    self.RequestHandlerClass(request, client_address, self)
+ERROR:pyqode.backend:  File "C:\Python27\Lib\SocketServer.py", line 655, in __init__
+ERROR:pyqode.backend:    self.handle()
+ERROR:pyqode.backend:  File "C:\Python27\lib\site-packages\pyqode\core\backend\server.py", line 113, in handle
+ERROR:pyqode.backend:    data = self.read(
+ERROR:pyqode.backend:
+ERROR:pyqode.backend:  File "C:\Python27\lib\site-packages\pyqode\core\backend\server.py", line 92, in read
+ERROR:pyqode.backend:    size = self.get_msg_len()
+ERROR:pyqode.backend:  File "C:\Python27\lib\site-packages\pyqode\core\backend\server.py", line 86, in get_msg_len
+ERROR:pyqode.backend:    data = self.read_bytes(4)
+ERROR:pyqode.backend:  File "C:\Python27\lib\site-packages\pyqode\core\backend\server.py", line 78, in read_byte
+ERROR:pyqode.backend:
+ERROR:pyqode.backend:    tmp = self.request.recv(size - len(data))
+ERROR:pyqode.backend:error: [Errno 10054] An existing connection was forcibly closed by the remote hos
+ERROR:pyqode.backend:
+INFO:pyqode.core.managers.backend:backend process terminated
+INFO:pyqode.core.api.code_edit:closed
+INFO:pyqode.core.widgets.splittable_tab_widget:current tab changed (old=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator.py'), new=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator\\UI\\icons.py'))
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function goto_assignments at 0x00000000046036D8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003941278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004603898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000046037B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004603908>
+INFO:pyqode.core.widgets.splittable_tab_widget:current tab changed (old=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator\\UI\\icons.py'), new=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator.py'))
+INFO:pyqode.core.widgets.splittable_tab_widget:registered editors: {'text/x-log': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-python': <class 'PyCreator.UI.pythonEditor.PythonEditor'>, 'text/plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>}
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+INFO:pyqode.core.widgets.splittable_tab_widget:registered editors: {'text/x-log': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-python': <class 'PyCreator.UI.pythonEditor.PythonEditor'>, 'text/plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>}
+INFO:pyqode.core.managers.backend:backend process terminated
+INFO:pyqode.core.api.code_edit:closed
+INFO:pyqode.core.managers.backend:backend process terminated
+INFO:pyqode.core.api.code_edit:closed
+INFO:pyqode.core.widgets.splittable_tab_widget:registered editors: {'text/x-log': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-python': <class 'PyCreator.UI.pythonEditor.PythonEditor'>, 'text/plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>}
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+INFO:pyqode.core.widgets.splittable_tab_widget:registered editors: {'text/x-log': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-python': <class 'PyCreator.UI.pythonEditor.PythonEditor'>, 'text/plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>}
+INFO:pyqode.core.api.client:backend process started
+INFO:pyqode.core.managers.backend:starting backend process: C:\Python27\python.exe C:\Python27\lib\site-packages\pyqode\python\backend\server.py 61956
+INFO:pyqode.core.api.code_edit:setPlainText duration: 0.023000s
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000048957B8>
+INFO:pyqode.core.widgets.splittable_tab_widget:current tab changed (old=None, new=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator.py'))
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004895898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000048957B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004895908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003C50278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003C50278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003C50278>
+INFO:pyqode.core.managers.backend:backend process terminated
+INFO:pyqode.core.api.code_edit:closed
+INFO:pyqode.core.api.client:backend process started
+INFO:pyqode.core.managers.backend:starting backend process: C:\Python27\python.exe C:\Python27\lib\site-packages\pyqode\python\backend\server.py 61965
+INFO:pyqode.core.api.code_edit:setPlainText duration: 0.023000s
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000048957B8>
+INFO:pyqode.core.widgets.splittable_tab_widget:current tab changed (old=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator.py'), new=PythonEditor(path=u'Z:\\programming\\Python\\PyCreator\\PyCreator\\PyCreator.py'))
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004895898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000048957B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003C50278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004895908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004895898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000048957B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004895908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004895898>
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.modes.code_completion:showing 180 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 180 items in 0.010000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004895898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000048957B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003C50278>
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004895898>
+INFO:pyqode.core.modes.code_completion:showing 458 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 458 items in 0.026000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000048957B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004895908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004895898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004895898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004895898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004895898>
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003C50278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004895898>
+INFO:pyqode.core.modes.code_completion:showing 2 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 2 items in 0.002000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000048957B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004895908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004895898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000048957B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003C50278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004895908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004895898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003C50278>
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.modes.code_completion:showing 180 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 180 items in 0.009000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004895898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003C50278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004895898>
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.modes.code_completion:showing 458 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 458 items in 0.023000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004895898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000048957B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003C50278>
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.modes.code_completion:showing 2 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 2 items in 0.002000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004895898>
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.modes.code_completion:showing 1 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 1 items in 0.000000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.modes.code_completion:showing 6 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 6 items in 0.001000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003C50278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004895898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004895898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003C50278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000048957B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004895908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004895898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004895898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000048957B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.modes.code_completion:showing 181 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 181 items in 0.010000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<class 'pyqode.core.backend.workers.CodeCompletionWorker'>
+INFO:pyqode.core.modes.code_completion:showing 181 completions
+INFO:pyqode.core.modes.code_completion:completion model updated: 181 items in 0.012000 seconds
+INFO:pyqode.core.modes.code_completion:popup shown
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004895898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function findall at 0x0000000003C50278>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004895898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000048957B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004895908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004895898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000048957B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004895908>
+INFO:pyqode.core.widgets.splittable_tab_widget:registered editors: {'text/x-log': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-python': <class 'PyCreator.UI.pythonEditor.PythonEditor'>, 'text/plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>}
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+INFO:pyqode.core.widgets.splittable_tab_widget:registered editors: {'text/x-log': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-python': <class 'PyCreator.UI.pythonEditor.PythonEditor'>, 'text/plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>}
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004895898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004895898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000048957B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004895908>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_pep8 at 0x0000000004895898>
+INFO:pyqode.core.managers.backend:sending request, worker=<function defined_names at 0x00000000048957B8>
+INFO:pyqode.core.managers.backend:sending request, worker=<function run_frosted at 0x0000000004895908>
+INFO:pyqode.core.managers.backend:backend process terminated
+INFO:pyqode.core.api.code_edit:closed
+INFO:pyqode.core.widgets.splittable_tab_widget:registered editors: {'text/x-log': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-python': <class 'PyCreator.UI.pythonEditor.PythonEditor'>, 'text/plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>}
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+WARNING:pyqode.core.widgets.splittable_tab_widget:editor for mimetype already registered, skipping
+INFO:pyqode.core.widgets.splittable_tab_widget:registered editors: {'text/x-log': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-python': <class 'PyCreator.UI.pythonEditor.PythonEditor'>, 'text/plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>, 'text/x-plain': <class 'pyqode.core.widgets.code_edits.TextCodeEdit'>}
