@@ -1,3 +1,5 @@
+This is an old project but I want to give credit where credit is due. Heavily inspired by [this project](https://github.com/fortharris/Pcode)
+
 # PyCreator
 Simple Python ide created for learning purposes. Uses [PyQode](https://github.com/pyQode/pyQode) and a special version of _PyQt5 for Python 2.7_([see here](http://abstractfactory.io/blog/pyqt5-1-1-for-python-2-7/)). Features full Python syntax highlighting, Jedi code completion, splittable code tabs, script out-liner, Frosted and Pep checkers as well as a fully drag 'n drop enabled file browser. That said, it still lacks alot of features present in other ides like virtual environment management, a debugger and Github integration. 
 
